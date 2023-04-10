@@ -1,0 +1,11 @@
+C:\Users\EOUser\source\repos\ArithmeticApp\ArithmeticApp\bin\Debug\ArithmeticApp.exe.config
+C:\Users\EOUser\source\repos\ArithmeticApp\ArithmeticApp\bin\Debug\ArithmeticApp.exe
+C:\Users\EOUser\source\repos\ArithmeticApp\ArithmeticApp\bin\Debug\ArithmeticApp.pdb
+C:\Users\EOUser\source\repos\ArithmeticApp\ArithmeticApp\obj\Debug\ArithmeticApp.csproj.AssemblyReference.cache
+C:\Users\EOUser\source\repos\ArithmeticApp\ArithmeticApp\obj\Debug\ArithmeticApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\EOUser\source\repos\ArithmeticApp\ArithmeticApp\obj\Debug\ArithmeticApp.Form1.resources
+C:\Users\EOUser\source\repos\ArithmeticApp\ArithmeticApp\obj\Debug\ArithmeticApp.Properties.Resources.resources
+C:\Users\EOUser\source\repos\ArithmeticApp\ArithmeticApp\obj\Debug\ArithmeticApp.csproj.GenerateResource.cache
+C:\Users\EOUser\source\repos\ArithmeticApp\ArithmeticApp\obj\Debug\ArithmeticApp.csproj.CoreCompileInputs.cache
+C:\Users\EOUser\source\repos\ArithmeticApp\ArithmeticApp\obj\Debug\ArithmeticApp.exe
+C:\Users\EOUser\source\repos\ArithmeticApp\ArithmeticApp\obj\Debug\ArithmeticApp.pdb
